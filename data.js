@@ -152,22 +152,7 @@ const employeesData = {
             }
         ]
     },
-    "contacto": [
-        {
-            "nombre": "Edwin Alexis",
-            "numero": "4646523517",
-            "email": "challenge@alkemy.org",
-            "datos": "son unos viejos putos",
-            "id": 1
-        },
-        {
-            "nombre": "Edwin Alexis",
-            "numero": "4646523517",
-            "email": "edbwinn@gmail.com",
-            "datos": "simon mijo",
-            "id": 2
-        }
-    ]
+    "contacto": []
 }
 
 
