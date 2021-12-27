@@ -1,0 +1,19 @@
+{
+  "name": "tipie-challenge-backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "npm start",
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": "14.17.5"
+  },
+  "author": "Gabriel Alabi",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
